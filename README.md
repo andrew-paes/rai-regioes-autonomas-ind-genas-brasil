@@ -1,5 +1,3 @@
-# RAIs — Regiões Autônomas Indígenas do Brasil
-
 # Apresentação
 
 ## À Sociedade Brasileira, aos Povos Indígenas, aos Formuladores de Políticas Públicas, aos Pesquisadores e às Instituições Democráticas
@@ -11,47 +9,29 @@ Este texto não deve ser compreendido como uma proposta legislativa acabada, tam
 O Brasil convive há séculos com uma tensão não resolvida entre a proteção dos direitos indígenas, a ocupação econômica do território, a preservação ambiental e a integração política das comunidades tradicionais à vida nacional. Apesar dos avanços constitucionais conquistados desde 1988, permanecem desafios relacionados à segurança territorial, à autonomia administrativa, à representação política e à sustentabilidade econômica dos territórios indígenas.
 
 A proposta apresentada procura enfrentar essas questões por meio de um modelo baseado em quatro pilares fundamentais:
-
 -   Autonomia territorial e administrativa;
-    
 -   Representação política permanente;
-    
 -   Financiamento federativo estruturado;
-    
 -   Reconhecimento das regiões indígenas como parceiras estratégicas na proteção ambiental e territorial do Brasil.
-    
 
 Trata-se de uma tentativa de conciliar direitos históricos, unidade nacional, desenvolvimento sustentável e garantias individuais dentro do marco constitucional brasileiro.
 
 Ao longo de sua elaboração, buscou-se evitar alguns dos principais riscos normalmente associados a propostas dessa natureza. O texto foi estruturado de forma a deixar explícito que:
-
 -   Não propõe a criação de novos países ou entidades soberanas;
-    
 -   Não transfere competências relacionadas à defesa nacional, relações exteriores ou controle de fronteiras;
-    
 -   Mantém a integridade territorial da República Federativa do Brasil;
-    
 -   Preserva a autoridade final da Constituição Federal e do Poder Judiciário;
-    
 -   Garante proteção aos direitos individuais dos cidadãos residentes nas regiões autônomas;
-    
 -   Estabelece mecanismos de transparência, prestação de contas e fiscalização pública.
-    
 
 Ainda assim, este documento reconhece suas próprias limitações.
 
 Diversas questões permanecem abertas e exigem aprofundamento técnico, jurídico, econômico e político. Entre elas destacam-se:
-
 -   Os critérios objetivos para criação e reconhecimento de uma Região Autônoma Indígena;
-    
 -   A definição de parâmetros mínimos de população, território e capacidade administrativa;
-    
 -   O modelo de distribuição de recursos financeiros entre as diferentes regiões;
-    
 -   O sistema eleitoral e a composição da Câmara dos Povos Originários;
-    
 -   Os mecanismos de transição entre o modelo atualmente vigente e um eventual novo arranjo institucional.
-    
 
 Essas lacunas não representam falhas do documento, mas escolhas deliberadas. Elas existem porque tais definições somente poderão ser construídas legitimamente mediante diálogo amplo com os próprios povos indígenas, especialistas em direito constitucional, federalismo, administração pública, economia, meio ambiente e com a sociedade brasileira em geral.
 
@@ -65,36 +45,15 @@ A história brasileira demonstra que as soluções duradouras raramente surgem d
 
 Que este documento possa contribuir para esse processo.
 
-GitHub: https://github.com/andrew-paes/rai-regioes-autonomas-ind-genas-brasil
-
-**Licença de Uso**
-
-Este documento é disponibilizado para leitura, discussão, reprodução e adaptação, desde que seja preservada a atribuição de autoria da versão original e indicada a existência de modificações quando houver versões derivadas.
-
-Este projeto será conduzido segundo os seguintes princípios:
--   transparência das revisões;
--   respeito às contribuições recebidas;
--   fundamentação técnica das alterações incorporadas;
--   registro público do histórico de versões;
--   abertura permanente ao aperfeiçoamento.
-
-Que esta proposta possa caminhar com legitimidade própria, construída coletivamente.
-
-Conheça mais sobre a causa indígena:
--   CIMI [](https://cimi.org.br/apoie/)[https://cimi.org.br/apoie](https://cimi.org.br/apoie)
--   COIAB [](https://coiab.org.br/)[https://coiab.org.br](https://coiab.org.br)
--   APIB [](https://apiboficial.org/en/)[https://apiboficial.org/en](https://apiboficial.org/en)
--   Sócio Ambiental [https://www.socioambiental.org/en/how-we-act](https://www.socioambiental.org/en/how-we-act)
-
 **Respeitosamente,**
 
 _Andrew Paes da Silva_
 
 _Documento aberto para revisão pública, contribuições técnicas e coleta de manifestações de apoio ou crítica._
 
-# Resumo Executivo
-
 ----------
+
+# Resumo Executivo
 
 ### O que é esta proposta?
 
@@ -133,7 +92,7 @@ Quatro pilares:
 
 ### O que diferencia esta proposta de outras?
 
--   **Define "falha grave" de forma taxativa**, fechando a brecha para uso político arbitrário da cláusula de reversão de autonomia
+-   **Define “falha grave” de forma taxativa**, fechando a brecha para uso político arbitrário da cláusula de reversão de autonomia
 -   **Cria dois níveis de proteção** — impacto significativo e risco existencial — com ritos proporcionais à gravidade
 -   **Separa a economia própria da RAI dos repasses públicos**, garantindo liberdade de modelo econômico interno
 -   **Financia diretamente pela União**, evitando disputas entre Estados e municípios vizinhos
@@ -159,15 +118,17 @@ Quatro pilares:
 
 Minuta pública aberta a contribuições. O texto completo, com doze capítulos e blocos explicativos em linguagem acessível, está disponível para leitura e comentário.
 
-**Colabore no Notion:** https://app.notion.com/p/RAIs-Regi-es-Aut-nomas-Ind-genas-do-Brasil-b07fdc76f950413386f618df66c4c5d9
+**Colabore no Notion:** [](https://app.notion.com/p/RAIs-Regi-es-Aut-nomas-Ind-genas-do-Brasil-b07fdc76f950413386f618df66c4c5d9?pvs=21)[https://app.notion.com/p/RAIs-Regi-es-Aut-nomas-Ind-genas-do-Brasil-b07fdc76f950413386f618df66c4c5d9](https://app.notion.com/p/RAIs-Regi-es-Aut-nomas-Ind-genas-do-Brasil-b07fdc76f950413386f618df66c4c5d9)
 
-**Histórico de versões no GitHub:** https://github.com/andrew-paes/rai-regioes-autonomas-ind-genas-brasil
+**Histórico de versões no GitHub:** [https://github.com/andrew-paes/rai-regioes-autonomas-ind-genas-brasil](https://github.com/andrew-paes/rai-regioes-autonomas-ind-genas-brasil)
 
 ----------
 
 _Autor: Andrew Paes da Silva — documento aberto para revisão pública, contribuições técnicas e manifestações de apoio ou crítica._ _Disponível para reprodução e adaptação com atribuição de autoria._
 
-# Proposta Comentada
+----------
+
+# Proposta de Regiões Autônomas Indígenas do Brasil
 
 ### Carta Pública para Reconciliação Federativa, Justiça Histórica e Desenvolvimento Sustentável
 
@@ -179,15 +140,140 @@ O Brasil enfrenta há décadas conflitos relacionados à demarcação, proteçã
 
 Ao mesmo tempo, os povos indígenas desempenham funções estratégicas para a preservação dos biomas brasileiros, a proteção de recursos hídricos, a conservação da biodiversidade e a manutenção da diversidade cultural da nação.
 
-Os dados confirmam essa função estratégica: as terras indígenas hoje abrangem cerca de **105 milhões de hectares — 13,8% do território nacional** — e registram índice de desmatamento inferior a **3% do total detectado** no país (FUNAI, 2025). Ou seja, 13,8% do território responde por mais de 97% da floresta que ainda permanece em pé. Ao mesmo tempo, existem **764 territórios em diferentes fases de reconhecimento** na FUNAI, dos quais apenas 448 estão efetivamente homologados — e outros **598 territórios com demanda de demarcação sem nenhuma providência iniciada**, segundo o CIMI. A proposta não cria novas demarcações: ela propõe um modelo de gestão para os territórios que já existem ou que seguirão o rito constitucional já vigente.
-
-Esses conflitos têm consequências humanas documentadas: em 2024, o relatório anual do CIMI registrou **211 assassinatos de indígenas, 208 suicídios e 922 óbitos de crianças de até 4 anos** — a maioria por causas evitáveis, como desnutrição e doenças infecciosas tratáveis. No mesmo ano, **1.241 casos de violência contra o patrimônio** foram registrados em terras indígenas em todo o Brasil, incluindo 230 invasões e danos diretos em 159 territórios — muitos deles já regularizados. Esses dados não são anomalias: são o resultado previsível de um modelo que reconhece direitos no papel sem garantir instrumentos reais de proteção e gestão autônoma.
-
 Esta proposta busca um novo pacto federativo entre o Estado brasileiro e os povos originários, fundamentado na **autonomia responsável**, na **cooperação institucional** e na **reciprocidade de direitos e deveres**. Ela se apoia, e não contradiz, o arcabouço já existente — Constituição Federal, Estatuto do Indígena (Lei 6.001/1973, atualmente objeto de críticas e propostas de atualização legislativa), Convenção 169 da Organização Internacional do Trabalho (promulgada originalmente pelo Decreto 5.051/2004 e atualmente consolidada no Decreto 10.088/2019) e a jurisprudência do STF sobre demarcação (caso "Marco Temporal" e seus desdobramentos).
 
 Esta proposta dialoga com a longa tradição de resistência e pensamento indígena brasileiro — da atuação de lideranças como Ailton Krenak na Assembleia Nacional Constituinte de 1987-88, em defesa da emenda popular que resultou no capítulo constitucional dos direitos dos povos indígenas, à voz internacional de Davi Kopenawa, liderança Yanomami que por décadas levou à ONU e a fóruns internacionais as denúncias sobre invasão territorial, garimpo ilegal e risco de etnocídio, contribuindo decisivamente para a homologação da Terra Indígena Yanomami em 1992. Essas trajetórias de luta são aqui reconhecidas como inspiração histórica e moral desta proposta — sem que isso implique atribuir a essas lideranças a autoria do modelo institucional específico aqui apresentado, que é fruto de elaboração própria submetida ao debate público.
 
 O objetivo **não é criar países independentes** dentro do território nacional, mas instituir Regiões Autônomas Indígenas (RAIs) capazes de exercer autogoverno, promover desenvolvimento econômico sustentável, preservar suas culturas e contribuir para os interesses estratégicos do Brasil — em um modelo que se inspira, sem transplantar institucionalmente, em experiências como as autonomias indígenas da Bolívia (Territorios Indígena Originario Campesinos, que enfrentam obstáculos jurídicos e políticos próprios de implementação), os Resguardos Indígenas da Colômbia e os arranjos de autogoverno das Primeiras Nações no Canadá — todos adaptados à realidade constitucional e federativa específica do Brasil.
+
+----------
+
+## Resultados Esperados
+
+### Resultados para os Povos Indígenas
+
+Autogoverno efetivo; segurança territorial; representação política garantida; preservação cultural; desenvolvimento econômico sustentável; proteção individual contra abusos internos e externos.
+
+### Resultados para o Estado Brasileiro e para todo brasileiro, independentemente de simpatia à causa indígena
+
+Esta proposta parte de uma premissa simples: a proteção dos povos originários não deve ser compreendida apenas como uma obrigação constitucional ou humanitária, mas também como um investimento estratégico em estabilidade institucional, segurança nacional, proteção ambiental, competitividade econômica e desenvolvimento sustentável.
+
+#### Segurança Nacional
+
+As fronteiras amazônicas são monitoradas hoje, na prática, pelos próprios povos indígenas — que denunciam garimpo, narcotráfico e entrada de grupos armados. Sem essa presença, essas fronteiras ficam abertas. O Exército Brasileiro já reconhece isso formalmente: **os indígenas representam cerca de 70% dos 1.400 militares da 2ª Brigada de Infantaria de Selva**, que agrupa sete bases avançadas nas fronteiras com a Colômbia e a Venezuela. Na Terra Indígena Yanomami existem dois Pelotões Especiais de Fronteira em operação contínua desde 1988 e 1995. Formalizar essa parceria é interesse de qualquer brasileiro que se preocupe com soberania nacional.
+
+Além das fronteiras, os povos indígenas possuem conhecimento territorial acumulado por gerações — rios, trilhas, ciclos climáticos, identificação de invasões e queimadas — que o Estado brasileiro gasta milhões tentando produzir com sensoriamento remoto e inteligência convencional. Esse é um ativo estratégico já disponível, apenas não reconhecido formalmente.
+
+**Fontes:**
+-   [Indígenas ajudam Exército a defender fronteira do Brasil — BBC Brasil](https://www.bbc.com/portuguese/noticias/2012/08/120815_militares_indios_lk)
+-   [Os Pelotões Especiais de Fronteira na Terra Indígena Yanomami — Blog do Exército Brasileiro](https://eblog.eb.mil.br/en/w/os-pelot%C3%B5es-especiais-de-fronteira-na-terra-ind%C3%ADgena-yanomami)
+-   [A importância do relacionamento entre os PEF e as Comunidades Indígenas para o levantamento de dados, visando a Consciência Situacional na região da Cabeça do Cachorro — Blog do Exército Brasileiro](https://eblog.eb.mil.br/w/a-import%C3%A2ncia-do-relacionamento-entre-os-pef-e-as-comunidades-ind%C3%ADgenas-para-o-levantamento-de-dados-visando-a-consci%C3%AAncia-situacional-na-regi%C3%A3o-da-cabe%C3%A7a-do-cachorro-2)
+
+#### Segurança Jurídica e Estabilidade Institucional
+
+Após quase quatro décadas da Constituição de 1988, sucessivos governos, produtores rurais, comunidades indígenas e o próprio STF continuam envolvidos em disputas recorrentes sobre demarcações, ocupações, retirada de invasores e grandes empreendimentos. O Brasil contabilizou **2.185 conflitos no campo durante 2024, o segundo maior número desde 1985**. Um modelo institucional mais estável — com territórios reconhecidos, autonomia definida e mecanismos de resolução previsíveis — reduz custos judiciais, aumenta a previsibilidade e favorece investimentos de longo prazo. Essa estabilidade conversa diretamente com empresários, produtores rurais, prefeitos e governadores que hoje vivem com a incerteza de decisões do STF que podem mudar de um governo para outro.
+
+**Fontes:**
+-   [Pará lidera conflitos fundiários no Brasil apesar de R$ 6 bilhões em investimentos federais](https://ver-o-fato.com.br/para-lidera-conflitos-fundiarios-no-brasil-apesar-de-r-6-bilhoes-em-investimentos-federais/)
+-   [Os conflitos pela terra no Brasil — ComCiência](https://comciencia.scielo.br/scielo.php?script=sci_arttext&pid=S1519-76542011000900005&lng=es&nrm=iso)
+-   [Força Nacional permanecerá nas terras indígenas Guarita e Nonoai — Agência Brasil](https://agenciabrasil.ebc.com.br/geral/noticia/2024-04/forca-nacional-permanecera-nas-terras-indigenas-guarita-e-nonoai)
+-   [Ministério dos Povos Indígenas lança manual inédito sobre conflitos fundiários envolvendo povos indígenas](https://www.gov.br/povosindigenas/pt-br/assuntos/noticias/2025/11/ministerio-dos-povos-indigenas-lanca-manual-inedito-sobre-conflitos-fundiarios-envolvendo-povos-indigenas)
+
+#### Segurança Hídrica Nacional
+
+**80% da água superficial do Brasil está na região hidrográfica amazônica**, e os chamados "rios voadores" são enormes correntes atmosféricas de vapor de água que se deslocam da Amazônia em direção ao Sudeste, ao Sul e ao Centro-Oeste do Brasil. Quem bebe água em São Paulo, abastece hidrelétricas em Minas Gerais ou irriga lavouras em Goiás depende diretamente da floresta em pé — grande parte dela protegida por territórios indígenas. **Quase 75% da redução das chuvas durante a estação seca na Amazônia desde 1985 está diretamente ligada ao desmatamento**, segundo estudo publicado na revista _Nature Communications_, coordenado pela USP em parceria com pesquisadores internacionais.
+
+A proteção dos territórios indígenas produz benefícios diretos à segurança hídrica nacional, influenciando o regime de chuvas, a disponibilidade de recursos hídricos, a geração hidrelétrica e a produtividade agrícola em diversas regiões do país.
+
+**Fontes:**
+-   [Rios do Brasil — IBGE Educa](https://educa.ibge.gov.br/jovens/conheca-o-brasil/territorio/18305-rios-do-brasil.html)
+-   [Desmatamento já responde por 75% da perda de chuva na Amazônia, aponta estudo — G1](https://g1.globo.com/meio-ambiente/noticia/2025/09/02/desmatamento-ja-responde-por-75percent-da-perda-de-chuva-na-amazonia-aponta-estudo.ghtml)
+
+#### Segurança Energética
+
+O Brasil gera cerca de 60% a 65% de sua eletricidade em hidrelétricas. Menos chuva significa menos reservatórios, o que resulta em energia mais cara, acionamento de bandeiras tarifárias e pressão inflacionária sobre toda a economia. Esse ciclo — floresta derrubada → rios voadores enfraquecidos → hidrelétricas com menos água → conta de luz mais cara — afeta diretamente o bolso do consumidor urbano que nunca pensou na questão indígena. A proteção territorial amazônica não é pauta ambientalista: é pauta de segurança energética.
+
+**Fonte:**
+-   [Crise climática potencializa falta de água no Brasil — Jornal da Unesp](https://jornal.unesp.br/2021/10/18/crise-climatica-potencializa-falta-de-agua-no-brasil/)
+
+#### Segurança do Agronegócio
+**Goiás e Minas Gerais praticamente dependem dos rios voadores empurrados pelos ventos da Amazônia**, onde estão grandes hidrelétricas geradoras de energia como Furnas, Emborcação, Serra da Mesa e Nova Ponte. A redução dessas correntes já afeta diretamente o agronegócio, com queda na produtividade especialmente nas safrinhas. O produtor rural do Centro-Oeste que nunca pensou na questão indígena já está sentindo, na colheita, as consequências do desmatamento que avança sobre territórios sem proteção efetiva.
+
+**Fontes:**
+-   [Desmatamento na Amazônia enfraquece os rios voadores, diminuindo as chuvas pelo Brasil — IHU Unisinos](https://ihu.unisinos.br/categorias/659282-desmatamento-na-amazonia-enfraquece-os-rios-voadores-diminuindo-as-chuvas-pelo-brasil)
+-   [Funai adota providências e monitora conflitos envolvendo indígenas no PR, MS, RS e BA — Fundação Nacional dos Povos Indígenas](https://www.gov.br/funai/pt-br/assuntos/noticias/2024/funai-adota-providencias-e-monitora-conflitos-envolvendo-indigenas-no-parana-mato-grosso-do-sul-e-rio-grande-do-sul)
+
+#### Segurança Econômica e Competitividade Internacional
+
+Com a entrada em vigor da EUDR — regulação europeia antidefloresamento — contratos de exportação para a Europa passam a incluir cláusulas obrigatórias sobre origem, ausência de vínculo com desmatamento e respeito a direitos humanos em toda a cadeia de fornecimento. **Exportadores brasileiros devem garantir rastreabilidade total para provar que seus produtos não provêm de áreas desmatadas, impactando cerca de 80% das exportações do agronegócio**. Territórios indígenas protegidos e com governança formal são, nesse contexto, um ativo econômico direto para o Brasil exportador.
+
+O acordo Mercosul-UE, aprovado em 2025, reforça esse cenário: **prevê a elaboração de uma lista de produtos da bioeconomia com tratamento adicional mais favorável no mercado europeu, ampliando oportunidades para povos indígenas e comunidades tradicionais**. O Brasil detém o maior banco genético do planeta, concentrado em biomas protegidos em grande parte por territórios indígenas. Sem proteção desses territórios, esse ativo — que vale bilhões em medicamentos, cosméticos, alimentos e créditos de carbono — se perde antes de ser sequer mapeado.
+
+**Fontes:**
+-   [Nova lei europeia antidesmatamento abrange 80% das exportações agrícolas do Brasil — Climainfo](https://climainfo.org.br/2022/09/15/nova-lei-europeia-anti-desmatamento-abrange-80-das-exportacoes-agricolas-do-brasil/)
+-   [Aprovação do acordo Mercosul-União Europeia fortalece compromissos do Brasil com clima, florestas e desenvolvimento sustentável — Ministério do Meio Ambiente](https://www.gov.br/mma/pt-br/noticias/aprovacao-do-acordo-mercosul-uniao-europeia-fortalece-compromissos-do-brasil-com-clima-florestas-e-desenvolvimento-sustentavel)
+-   [Acordo Mercosul-UE: o que é e o que muda para o Brasil — Tax Group](https://www.taxgroup.com.br/intelligence/acordo-mercosul-ue-o-que-e-e-o-que-muda-para-o-brasil/)
+-   [Acordo de Parceria Estratégica Mercosul e União Europeia — Ministério da Agricultura](https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/negociacoes-comerciais/acordo-mercosul-uniao-europeia)
+
+#### Segurança Climática
+
+A preservação dos grandes biomas brasileiros reduz extremos climáticos, protege infraestrutura, diminui riscos de secas e enchentes e reduz custos econômicos associados a eventos climáticos severos. A adaptação climática deixou de ser apenas uma pauta ambiental e passou a integrar a estratégia econômica de praticamente todas as grandes economias do mundo.
+
+**Fontes:**
+-   [Ministério do Meio Ambiente e Mudança do Clima (MMA)](https://www.gov.br/mma)
+-   [Junho Ambiental: queimadas e enchentes revelam a vulnerabilidade do Pantanal e do Pampa às mudanças climáticas — MPF](https://www.mpf.mp.br/o-mpf/unidades/procuradoria-geral-da-republica-pgr/noticias/junho-ambiental-queimadas-e-enchentes-revelam-a-vulnerabilidade-do-pantanal-e-do-pampa-as-mudancas-climaticas)
+
+#### Segurança Internacional
+
+Um país capaz de demonstrar governança estável sobre seus territórios indígenas fortalece sua posição diplomática, reduz pressões internacionais e amplia sua capacidade de negociação em fóruns multilaterais relacionados ao clima, biodiversidade e comércio.
+
+**Fontes:**
+-   [APIB fortalece incidência internacional na Europa em defesa dos territórios indígenas e da justiça climática](https://apiboficial.org/2026/07/16/apib-fortalece-incidencia-internacional-na-europa-em-defesa-dos-territorios-indigenas-e-da-justica-climatica/)
+-   [Novo relatório da ONU: povos indígenas e comunidades tradicionais são os melhores guardiões das florestas da América Latina e do Caribe](https://brasil.un.org/pt-br/123183-novo-relat%C3%B3rio-da-onu%C2%A0povos-ind%C3%ADgenas-e-comunidades-tradicionais-s%C3%A3o-os-melhores-guardi%C3%B5es)
+
+----------
+
+### Ciência e Patrimônio Genético Nacional
+
+A proteção dos territórios indígenas também protege o patrimônio científico do Brasil. Universidades, Embrapa, INPE, Fiocruz e o Museu Paraense Emílio Goeldi dependem do acesso a ecossistemas intactos para pesquisa em espécies desconhecidas, patrimônio genético e conhecimento tradicional aplicado. Parte relevante das descobertas farmacológicas, agronômicas e climáticas das últimas décadas vieram de pesquisas realizadas em ou com povos de territórios amazônicos. Esse capital científico não é renovável: espécie extinta ou conhecimento perdido não se recupera.
+
+**Fonte:**
+-   [Lei da Biodiversidade (Lei nº 13.123/2015) — Fiocruz](https://fiocruz.br/acesso-ao-patrimonio-genetico-e-ao-conhecimento-tradicional-associado)
+
+----------
+
+### Capital Institucional
+
+A descentralização responsável fortalece a capacidade do Estado brasileiro de atuar em regiões remotas. Instituições locais permanentes produzem informação qualificada, fiscalização contínua, resolução precoce de conflitos e maior capacidade de resposta administrativa antes que problemas locais evoluam para crises nacionais. Em vez de depender exclusivamente de estruturas federais distantes, o Estado passa a contar com parceiros institucionais e capacidade administrativa permanente, reduzindo custos de coordenação e aumentando sua presença efetiva no território.
+
+----------
+
+### Capital Humano
+
+A proposta cria condições para formação de professores, engenheiros, médicos, gestores públicos, pesquisadores e lideranças indígenas capazes de atuar simultaneamente em suas comunidades e nas instituições nacionais. Ao ampliar oportunidades educacionais e profissionais sem exigir a ruptura com suas identidades culturais, o Brasil amplia seu próprio estoque de capital humano qualificado para atuar em regiões estratégicas, reduzindo desigualdades históricas e fortalecendo a integração nacional.
+
+----------
+
+### Eficiência Fiscal
+
+Em 2024, o governo federal mobilizou mais de 20 órgãos — Polícia Federal, Força Nacional, Forças Armadas, IBAMA, ICMBio — em operações contínuas de desintrusão em terras indígenas. As operações na Terra Indígena Yanomami causaram **R$ 740 milhões de prejuízo ao crime** e geraram 98% de queda da área de garimpo ativo — mas a um custo operacional permanente que recai sobre o orçamento federal. Uma RAI com autonomia territorial e fiscalização própria reduz estruturalmente essa conta: é mais barato construir proteção permanente do que financiar décadas de operações de emergência.
+
+**Fonte:**
+-   [Operações em terras indígenas causam R$ 740,6 milhões de prejuízo ao crime, diz Casa Civil](https://www.portaldoholanda.com.br/variedades/operacoes-em-terras-indigenas-causam-r-7406-milhoes-de-prejuizo-ao-crime-diz-casa-civil)
+
+----------
+
+### Fortalecimento do Federalismo Cooperativo
+
+Ao substituir um modelo predominantemente tutelar por um modelo de autonomia responsável, o Estado brasileiro reduz a necessidade de intervenção permanente da União na administração cotidiana dos territórios indígenas. Isso permite que recursos federais sejam direcionados a funções estratégicas de coordenação, fiscalização e apoio técnico, enquanto decisões locais passam a ser tomadas por instituições mais próximas das comunidades e das realidades regionais.
+
+----------
+
+### Síntese
+
+Ao reconhecer as Regiões Autônomas Indígenas como parceiras permanentes da Federação, o Brasil fortalece simultaneamente seus direitos fundamentais, sua soberania territorial e sua capacidade de enfrentar desafios ambientais, econômicos e geopolíticos do século XXI. A questão indígena deixa de ser uma pauta setorial e passa a ser uma **oportunidade para resolver problemas estruturais do próprio Estado brasileiro**.
+
+Em síntese, a proposta parte da compreensão de que fortalecer os povos indígenas não representa um custo imposto ao restante da sociedade, mas um investimento estratégico em segurança nacional, estabilidade institucional, segurança hídrica, competitividade econômica, proteção ambiental e desenvolvimento sustentável. As Regiões Autônomas Indígenas deixam de ser vistas apenas como destinatárias de políticas públicas e passam a integrar a arquitetura institucional do Estado brasileiro como parceiras permanentes na proteção de ativos estratégicos da nação.
 
 ----------
 
@@ -197,7 +283,7 @@ O objetivo **não é criar países independentes** dentro do território naciona
 
 > **Motivação:** Há um mal-entendido comum: o de que direitos indígenas são uma "concessão" do Estado brasileiro, algo que pode ser dado ou retirado conforme a vontade política do momento. Este artigo corrige essa visão. Os povos indígenas estavam aqui antes do Brasil existir como país — seu vínculo com a terra não nasceu de uma lei, e sim foi _reconhecido_ por uma lei (a Constituição de 1988). Essa diferença parece sutil, mas é o alicerce de tudo o que vem depois: se o direito é originário e não concedido, ele não pode ser simplesmente revogado por mudança de governo ou de maioria parlamentar.
 > 
-> **Situação:** Na prática brasileira, esse reconhecimento constitucional frequentemente não se traduz em proteção efetiva — demarcações atrasam por décadas, invasões ocorrem mesmo em terra já homologada, e a defesa desses direitos depende quase sempre de judicialização caso a caso, o que é lento, caro e desigual. A Constituição de 1988 impôs prazo de cinco anos para que todas as terras fossem demarcadas. Mais de 35 anos depois, **40,86% das terras indígenas registradas não têm nenhuma providência do Estado para iniciar sua demarcação** (CIMI, 2024). Esse dado não é uma crítica a um governo específico — a tabela histórica de homologações mostra que nenhuma gestão, de 1988 até hoje, tratou a demarcação como prioridade consistente. É um problema estrutural, não conjuntural, e é exatamente por isso que esta proposta defende instrumentos _estruturais_, não dependentes da boa vontade de cada administração.
+> **Situação:** Na prática brasileira, esse reconhecimento constitucional frequentemente não se traduz em proteção efetiva — demarcações atrasam por décadas, invasões ocorrem mesmo em terra já homologada, e a defesa desses direitos depende quase sempre de judicialização caso a caso, o que é lento, caro e desigual.
 > 
 > **Proposta:** Transformar o reconhecimento abstrato em mecanismos concretos e permanentes — é exatamente isso que os capítulos seguintes tentam fazer: dar corpo institucional (governo próprio, representação, financiamento) a um direito que hoje existe mais no papel do que na prática. Este artigo é a porta de entrada conceitual; ele não cria nada novo sozinho, mas declara o porquê de tudo o que segue ser necessário.
 
@@ -496,15 +582,15 @@ As RAIs exercerão funções estratégicas reconhecidas como **serviços de inte
 -   Formação e capacitação especializada de militares e agentes federais em sobrevivência, rastreamento, navegação fluvial, orientação territorial, identificação de fauna e flora e mediação cultural;
 -   Compartilhamento de infraestrutura física — incluindo instalações, pistas de pouso, sistemas de comunicação e tecnologia de monitoramento remoto — entre o Corpo de Fiscalização Territorial Indígena e unidades militares ou ambientais federais presentes na região.
 
-Os conhecimentos tradicionais relevantes ao interesse nacional poderão ser reconhecidos formalmente como **competências estratégicas especializadas**, na forma da lei, e remunerados por sua prestação efetiva a órgãos federais — exatamente como ocorre com outras especialidades militares de alta raridade técnica (mergulhadores, paraquedistas, pilotos). Membros de RAIs que optarem por carreira militar seguirão as mesmas regras aplicáveis a qualquer cidadão brasileiro, sem distinção, podendo acumular reconhecimento adicional por essas especialidades.
+Os conhecimentos tradicionais relevantes ao interesse nacional — como navegação fluvial, sobrevivência na selva, rastreamento e orientação territorial — poderão ser reconhecidos formalmente como **competências estratégicas especializadas**, na forma da lei, e remunerados por sua prestação efetiva a órgãos federais, exatamente como ocorre com outras especialidades militares de alta raridade técnica (mergulhadores, paraquedistas, pilotos). Membros de RAIs que optarem por carreira militar seguirão as mesmas regras aplicáveis a qualquer cidadão brasileiro, sem distinção, podendo acumular reconhecimento adicional por essas especialidades.
 
 Os acordos previstos neste artigo deverão conter metas, orçamento, indicadores de resultado e prazo de revisão, sendo submetidos à aprovação da Câmara dos Povos Originários antes de sua assinatura e ao controle do Tribunal de Contas Regional durante sua execução.
 
-> **Motivação:** O Exército Brasileiro já mantém há décadas presença significativa em territórios indígenas — por meio de Pelotões Especiais de Fronteira, Tiros de Guerra, Batalhões de Selva e Comandos de Fronteira. Há um número expressivo de militares indígenas nessas regiões, valorizados por conhecimentos de navegação fluvial, sobrevivência, rastreamento, mediação cultural e línguas locais. Essa colaboração já existe na prática — o que não existe é um enquadramento institucional que a reconheça formalmente, remunere adequadamente e transforme em política pública estruturada.
+> **Motivação:** O Exército Brasileiro já mantém há décadas uma presença significativa em territórios indígenas, especialmente na Amazônia e no Pantanal — por meio de Pelotões Especiais de Fronteira, Tiros de Guerra, Batalhões de Selva e Comandos de Fronteira. Há um número expressivo de militares indígenas nessas regiões, muito valorizados por conhecimentos de navegação fluvial, sobrevivência, rastreamento, mediação cultural e línguas locais. Essa colaboração já existe na prática — o que não existe é um enquadramento institucional que a reconheça formalmente, remunere adequadamente e transforme em política pública estruturada.
 > 
-> **Situação:** Sem um artigo específico, essa cooperação permanece informal, dependente de iniciativas pontuais de cada comando regional, sem garantia de continuidade, sem remuneração adequada pelos conhecimentos tradicionais prestados e sem participação das próprias comunidades nas decisões sobre como e quando essa cooperação ocorre.
+> **Situação:** Sem um artigo específico, essa cooperação permanece informal, dependente de iniciativas pontuais de cada comando regional, sem garantia de continuidade, sem remuneração adequada pelos conhecimentos tradicionais prestados e sem participação das próprias comunidades nas decisões sobre como e quando essa cooperação ocorre. Além disso, a infraestrutura militar já presente em territórios indígenas — quartéis, pistas, comunicações — raramente é compartilhada com as comunidades que habitam e protegem aquele mesmo espaço.
 > 
-> **Proposta:** Transformar uma cooperação informal e fragmentada em política institucional estruturada, com Acordos de Cooperação com metas e orçamento definidos. O modelo não cria uma "polícia indígena armada" nem militariza as RAIs — mantém separadas as competências de segurança pública (exclusiva da União e dos Estados) e as de fiscalização ambiental (Corpo de Fiscalização Territorial Indígena). O que cria é um canal formal de parceria, com infraestrutura compartilhada, remuneração por competência e reconhecimento do que já é, na prática, um serviço estratégico ao Estado brasileiro.
+> **Proposta:** Transformar uma cooperação informal e fragmentada em uma política institucional estruturada, baseada em Acordos de Cooperação com metas e orçamento definidos. O modelo proposto não cria uma "polícia indígena armada" nem militariza as RAIs — mantém separadas as competências de segurança pública (exclusiva da União e dos Estados) e as de fiscalização ambiental (do Corpo de Fiscalização Territorial Indígena). O que cria é um canal formal de parceria, com infraestrutura compartilhada, remuneração por competência e reconhecimento do que já é, na prática, um serviço estratégico ao Estado brasileiro.
 
 ----------
 
@@ -524,15 +610,33 @@ As RAIs manterão padrões ambientais compatíveis com a conservação dos ecoss
 
 Uma proposta desta envergadura deve enfrentar honestamente seus riscos:
 
-| Risco | Mecanismo de Mitigação |
-| :--- | :--- |
-| Captura por interesses econômicos externos (mineradoras, agronegócio, garimpo) | Contratos públicos auditáveis; manifestação suspensiva qualificada da Câmara; proibição de intermediação por terceiros não autorizados |
-| Fragmentação entre etnias e disputas internas | Mediação pela Câmara dos Povos Originários; Judiciário federal como instância recursal |
-| Abuso de poder por lideranças locais | Garantias individuais do Art. 10º; Defensoria Pública da União; rotatividade e prestação de contas obrigatória |
-| Judicialização e bloqueio no STF/Congresso | Fundamentação explícita nos Arts. 231/232 da CF e na Convenção 169 da OIT; faseamento com projetos-piloto antes da generalização |
-| Uso da autonomia para atividades ilícitas (garimpo ilegal interno, tráfico) | Corpo de Fiscalização Territorial Indígena em cooperação com Polícia Federal; suspensão de competências administrativas delegadas em caso de comprovação |
-| Insustentabilidade financeira de regiões pequenas | Federações Regionais e fundo de compensação interna entre RAIs |
-| Volatilidade política — direitos dependentes de quem governa | Autonomia administrativa institucionalizada via PEC, não via política de governo; Câmara dos Povos Originários como freio independente do ciclo eleitoral |
+Risco
+
+Mecanismo de Mitigação
+
+Captura por interesses econômicos externos (mineradoras, agronegócio, garimpo)
+
+Contratos públicos auditáveis; manifestação suspensiva qualificada da Câmara; proibição de intermediação por terceiros não autorizados
+
+Fragmentação entre etnias e disputas internas
+
+Mediação pela Câmara dos Povos Originários; Judiciário federal como instância recursal
+
+Abuso de poder por lideranças locais
+
+Garantias individuais do Art. 10º; Defensoria Pública da União; rotatividade e prestação de contas obrigatória
+
+Judicialização e bloqueio no STF/Congresso
+
+Fundamentação explícita nos Arts. 231/232 da CF e na Convenção 169 da OIT; faseamento com projetos-piloto antes da generalização
+
+Uso da autonomia para atividades ilícitas (garimpo ilegal interno, tráfico)
+
+Corpo de Fiscalização Territorial Indígena em cooperação com Polícia Federal; suspensão de competências administrativas delegadas em caso de comprovação
+
+Insustentabilidade financeira de regiões pequenas
+
+Federações Regionais e fundo de compensação interna entre RAIs
 
 > **Motivação:** A maioria das propostas políticas — de qualquer espectro ideológico — costuma apresentar apenas seus benefícios, deixando os riscos para que os críticos os apontem depois, em tom de ataque. Esse capítulo escolhe um caminho diferente: antecipar honestamente onde a proposta pode falhar.
 > 
@@ -557,14 +661,6 @@ Uma proposta desta envergadura deve enfrentar honestamente seus riscos:
 > **Situação:** Sem faseamento, a proposta correria o risco de ser vista (e atacada) como uma ruptura abrupta e arriscada, em vez de uma transição responsável e testável.
 > 
 > **Proposta:** Avançar por etapas verificáveis — consulta, reforma constitucional, projetos-piloto avaliados de forma independente, e só então consolidação ampla — permitindo corrigir o curso a cada fase, antes de comprometer o país inteiro com um modelo ainda não testado na prática.
-
-----------
-
-## Benefícios Esperados
-
-**Para os Povos Indígenas:** autogoverno efetivo; segurança territorial; representação política garantida; preservação cultural; desenvolvimento econômico sustentável; proteção individual contra abusos internos e externos.
-
-**Para o Brasil:** redução de conflitos fundiários; fortalecimento da proteção ambiental; monitoramento territorial ampliado; maior estabilidade institucional; integração federativa; fortalecimento da imagem internacional do país; solução estrutural para disputas históricas; cumprimento efetivo de compromissos internacionais já assumidos (Convenção 169 da OIT, Acordo de Paris).
 
 ----------
 
