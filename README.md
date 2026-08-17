@@ -72,12 +72,6 @@ Uma proposta de debate público — não uma lei pronta — sobre um novo modelo
 
 ----------
 
-### Qual é o problema que ela tenta resolver?
-
-O Brasil reconhece constitucionalmente os direitos dos povos indígenas desde 1988 — mas esse reconhecimento raramente se traduz em proteção efetiva. Invasões ocorrem em terras já homologadas. Decisões sobre saúde e educação são tomadas em Brasília, longe da realidade de cada povo. Não há representação política garantida. E os povos indígenas, que protegem gratuitamente biomas estratégicos para todo o país, não recebem nenhuma contrapartida estruturada por esse serviço.
-
-----------
-
 ### O que a proposta defende?
 
 Quatro pilares:
